@@ -80,3 +80,7 @@ The dataset used in this project is from **Kaggle: Titanic – Machine Learning 
 ## Notes
 - This project is suitable for beginners to intermediate learners who want to practice **data cleaning, EDA, and predictive modeling** in Python.  
 - Can be extended with other algorithms (Logistic Regression, XGBoost) or additional feature engineering.
+
+---
+
+👤 Author Developed by: Triston Aloyssius Marta 📧 tristonmarta@yahoo.com.sg 💼 Data Science and Statistics
