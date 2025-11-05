@@ -83,4 +83,3 @@ The dataset used in this project is from **Kaggle: Titanic – Machine Learning 
 
 ---
 
-👤 Author Developed by: Triston Aloyssius Marta 📧 tristonmarta@yahoo.com.sg 💼 Data Science and Statistics
